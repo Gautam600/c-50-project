@@ -1,0 +1,28 @@
+h2{
+    color:verdana;
+}
+h1{
+    border:solid; color:dimgray;
+    
+}
+p{
+    color:dimgray
+}
+.header{
+    background-color: rgb(72, 255, 0);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+}
+.footer{
+    color:cyan;
+    display:flex;
+    justify-content: flex-end
+    
+}
